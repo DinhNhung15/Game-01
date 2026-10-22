@@ -103,4 +103,4 @@
 - #89 — Ngày 2 13:45–15:00 — Rừng thông → ngang trường Hoa Sen → xuống dốc Lê Lai. Vào phố chợ: 🎲 d100=62 → R7: chiếc xe tải nhỏ "BÁNH MÌ LÂM VÂN" đâm vào cột điện, tài xế thành bọn Lạnh bị kẹt dây an toàn, thùng sau có bánh mì đóng gói (🎲 d2=1 → có đồ ăn). Chưa lấy.
 - #90 — Ngày 2 15:00–15:05 — Lẻn tới tiệm kim khí: 🎲 d20=19+2=21 vs DC 10 → Thành công.
 - #91 — Ngày 2 15:05–15:45 — Lục tiệm kim khí: 🎲 d20=8+0=8 vs DC 10 → Thành công một phần: tìm được can xăng 2 lít sau quầy, nhưng làm đổ kệ đinh ốc, tiếng động lớn; mất thêm thời gian; chưa thấy xà beng/dây thừng. 4–5 bọn Lạnh đang dồn tới cửa tiệm.
-- #92 — Ngày 2 15:45–15:55 — Chạy ra cửa gỗ cuối tiệm (cửa chốt trong, mở được), xuyên qua gian nhà ở phía sau, ra hẻm sau. 🎲 d20=19+2=21 vs DC 10 → Thành công: cắt đuôi bầy Lạnh đang tràn vào tiệm. Trong gian nhà sau, thấy một ống nhựa dẫn xăng (loại hút xăng) móc trên tường — cầm theo. Mang can xăng 2 lít.
+- #92 — Ngày 2 15:45–15:55 — Chạy ra cửa gỗ cuối tiệm (cửa chốt trong, mở được), xuyên qua gian nhà ở phía sau, ra hẻm sau. 🎲 d20=19+2=21 vs DC 10 → Thành công: cắt đuôi bầy Lạnh đang tràn vào tiệm. Mang can xăng 2 lít.
