@@ -46,3 +46,4 @@
 - #36 — Ngày 2 07:15–07:30 — Chất vấn Cha Phêrô về ấm nước riêng và chiếc giếng, dẫn chứng người trong sân đang sốt. 🎲 d20=18+0=18 vs DC 14 (16 −2 có bằng chứng quan sát) → Thành công. Cha thú nhận: giếng có vấn đề từ mấy hôm trước, ông vẫn để mọi người uống nước không đun vì sợ hoảng loạn và thiếu củi; riêng ông đun nước uống. Mở nhiệm vụ phụ "Giếng thánh".
 - #37 — Ngày 2 07:30–11:30 — Làm việc cho giáo xứ 4 giờ (gánh nước, bổ củi). Đủ điều kiện ở lại hôm nay.
 - 📝 Đính chính: lần lục gác xép ở #24 thất bại chỉ có nghĩa là không tìm thấy, KHÔNG xác nhận chợ đã hết đồ ăn. Mục "Đã biết" được sửa thành "gác xép bạn đã lục không có gì".
+- #38 — Ngày 2 11:30–11:45 — Ngồi nghỉ, bàn với Tú tìm đồ ăn và chặng tiếp theo. Tú: chợ còn tiệm thuốc Phúc An và vài dãy gác xép chưa lục; kho Bến Cá ở cảng có gạo, nước đóng chai (anh từng thấy); bệnh viện chỉ nghe đồn có bác sĩ. Tú đề nghị tự đi chợ một mình để An nghỉ.
