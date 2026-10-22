@@ -104,3 +104,5 @@
 - #90 — Ngày 2 15:00–15:05 — Lẻn tới tiệm kim khí: 🎲 d20=19+2=21 vs DC 10 → Thành công.
 - #91 — Ngày 2 15:05–15:45 — Lục tiệm kim khí: 🎲 d20=8+0=8 vs DC 10 → Thành công một phần: tìm được can xăng 2 lít sau quầy, nhưng làm đổ kệ đinh ốc, tiếng động lớn; mất thêm thời gian; chưa thấy xà beng/dây thừng. 4–5 bọn Lạnh đang dồn tới cửa tiệm.
 - #92 — Ngày 2 15:45–15:55 — Chạy ra cửa gỗ cuối tiệm (cửa chốt trong, mở được), xuyên qua gian nhà ở phía sau, ra hẻm sau. 🎲 d20=19+2=21 vs DC 10 → Thành công: cắt đuôi bầy Lạnh đang tràn vào tiệm. Mang can xăng 2 lít.
+- 💾 CP5 — Ngày 2 12:15 — "Cánh cửa thép" (mốc vào được Viện Vắc-xin; ghi nhận muộn tại sự kiện #93; trạng thái theo mốc 12:15: Máu 15, Đói 48, Khát 77, Thể lực 63, Nhiễm 44, Vy Nhiễm ~39, chưa tiêm gì).
+- #93 — Ngày 2 15:55–17:35 — Quay về Viện với can xăng. Biến cố mốc 2 giờ ngoài trời: 🎲 d100=88 → R10 yên tĩnh. BS Khôi đổ xăng: đủ cho máy chạy tới khoảng 02:30 Ngày 3; mẻ RG-0 thứ hai tiếp tục.
