@@ -5,3 +5,4 @@
 
 ## Lượt #1
 - #1 — Ngày 1 07:30 — Bắt đầu lượt chơi tại dãy trọ Bà Tư. 💾 CP0.
+- #2 — Ngày 1 07:30–07:40 — Hỏi Đức Còi về "bọn nó". Đức kể: gọi là "bọn Lạnh", người bị cắn sốt rồi chết rồi đứng dậy, thấy tận mắt chú bán vé số bị cắn; chúng mê tiếng động. Bà Tư chen vào: "bị cắn là hết", rồi lảng đi. (Không tung xúc xắc.)
