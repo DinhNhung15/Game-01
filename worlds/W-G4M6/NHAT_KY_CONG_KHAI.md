@@ -37,3 +37,4 @@
 - #28 — Ngày 1 19:30–19:45 — Xin ăn vì đói lả. 🎲 d20=12+0(Giao tiếp)=12 vs DC 14 (16 −2 có trẻ nhỏ) → Thành công một phần: 1 bát cháo cặn cho Na, 1 bát chia đôi cho An và Tú (An: Đói −10, Khát −3).
 - 💾 CP1 — Ngày 1 19:45 — Lần đầu được Giáo xứ Đông Hải thu nhận.
 - #29 — Ngày 1 19:45–19:50 — Uống 1 ca (500ml) nước giếng nhà thờ do lính gác mời (Khát −20). Nhiễm +6. Nhiễm vượt 30 → triệu chứng nhẹ có thể xuất hiện; Nhiễm tự tiến triển +1 mỗi 2 giờ.
+- #30 — Ngày 1 19:50–20:05 — Nói chuyện với Tú về nhà thờ. Tú: tạm an toàn nhưng lo bị đuổi nếu ai ho; nhận thấy vài người trong sân có vẻ sốt, lau mồ hôi liên tục; thắc mắc vì sao cha xứ đun nước riêng; muốn đi tiếp sớm.
