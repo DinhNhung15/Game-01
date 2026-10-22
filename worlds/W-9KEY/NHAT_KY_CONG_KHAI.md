@@ -48,3 +48,5 @@
 - #38 — Ngày 1 12:00–12:05 — Lấy rìu chặt củi ở góc phòng 302 (luật: đánh đầu bằng rìu +1). Bà Tư dặn về trước khi mặt trời lặn; Đức đi cùng.
 - #39 — Ngày 1 12:05–12:30 — Đường mái: 🎲 d20=9+2=11 vs DC 10 → Thành công. Xuống cống ra sau dãy hàng cá. Vào phố chợ: 🎲 d100=58 → R7: một bọn Lạnh kẹt trong chiếc taxi đầu đường Lê Lai (🎲 d2=2 → không có đồ ăn).
 - #40 — Ngày 1 12:30 — Lẻn qua phố chợ ra chân dốc Lê Lai. 🎲 d20=2+2(Nhanh nhẹn)+2(Đức)=6 vs DC 10 → Thất bại: con trong taxi đập kính khi hai người đi ngang, Đức giật mình làm đổ sạp; 3 bọn Lạnh phát hiện, đuổi theo từ cách ~20 bước.
+- #41 — Ngày 1 12:30–12:31 — Ném chiếc mâm nhôm thật xa về phía cuối phố để đánh lạc hướng. 🎲 d20=15+2=17 vs DC 14 (10 +4 vì bọn Lạnh đã khóa mục tiêu) → Thành công: mâm đập vào cửa cuốn tiệm vàng cuối phố rồi lăn kêu loảng xoảng; cả 3 bọn Lạnh quay đầu đuổi theo tiếng động.
+- #42 — Ngày 1 12:31–13:20 — Leo dốc Lê Lai (45' + chậm vì cổ chân) lên đồi Tây. Không biến cố. Tới cổng trường Hoa Sen: cổng sắt chắn bàn ghế, có học sinh canh trên gác chuông.
