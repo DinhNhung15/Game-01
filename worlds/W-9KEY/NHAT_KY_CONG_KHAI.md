@@ -59,3 +59,6 @@
 - #48 — Ngày 1 15:15–15:25 — Bà Tư ôm Vy. Ông Tư (gân thâm lên tới cằm, vẫn tỉnh) xin được nhìn mặt trời lặn lần cuối từ cửa sổ, rồi "làm cho xong".
 - #49 — Ngày 1 15:25–17:45 — Kéo rèm, ngồi cùng ông Tư ngắm hoàng hôn (nghỉ: Thể lực hồi). Ông kể chuyện rừng, dặn thêm về đường mòn ("suối Cạn", "gốc thông ba chạc", "đi trước khi sương xuống"). Bà Tư vào ngồi cạnh, đeo găng cao su nắm tay ông. Vy và Đức ngồi ở ngưỡng cửa. Mặt trời lặn lúc 17:45; ông Tư nói "Giờ thì làm đi".
 - #50 — Ngày 1 17:45–17:55 — Minh từ chối ra tay: "ông còn sống sờ sờ". Ông Tư buồn nhưng hiểu; đề nghị trói ông thật chặt vào tấm phản rồi khóa cửa. Bà Tư đồng ý. 17:55: hơi thở ông Tư đổi nhịp, co giật nhẹ — dấu hiệu sắp biến đổi.
+- #51 — Ngày 1 17:55–17:56 — Ông Tư bắt đầu biến đổi; Minh vung tuýp đập vào đầu ông. 🎲 d20=12+0=12 vs DC 8 (10 −2 mục tiêu nằm, co giật) → Thành công. Ông Tư ra đi lúc 17:56, trước khi kịp biến đổi hoàn toàn.
+- #52 — Ngày 1 17:56–18:15 — Bà Tư gào khóc, rồi chấp nhận ("ông ấy muốn vậy"). Lấy tấm chăn đắp cho ông. ✅ Nhiệm vụ phụ "Phòng 302" HOÀN THÀNH. Thưởng: Bà Tư thân thiết (cho cơm, nước sạch, có thể đi cùng).
+- 💾 CP3 — Ngày 1 18:15 — "Hoàng hôn ở phòng 302".
