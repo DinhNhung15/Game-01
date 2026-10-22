@@ -57,3 +57,4 @@
 - #46 — Ngày 1 14:00–14:50 — Xuống dốc Lê Lai về phố chợ. Vy hỏi chuyện ông Tư, Minh kể. Vào phố chợ: 🎲 d100=75 → R10 yên tĩnh. Lẻn qua chợ: 🎲 d20=7+2+2(Đức)=11 vs DC 11 (10 +1 thêm người) → Thành công.
 - #47 — Ngày 1 14:50–15:15 — Cống → sân sau → leo mái. 🎲 d20=2+2=4 vs DC 10 → Thất bại: hụt chân, Vy và Đức níu kịp tay nhưng cổ chân phải đập vào mép tường (Máu −1, trẹo cổ chân nặng thêm → thương tích mức 2, +1 DC thể chất). Về tới trọ.
 - #48 — Ngày 1 15:15–15:25 — Bà Tư ôm Vy. Ông Tư (gân thâm lên tới cằm, vẫn tỉnh) xin được nhìn mặt trời lặn lần cuối từ cửa sổ, rồi "làm cho xong".
+- #49 — Ngày 1 15:25–17:45 — Kéo rèm, ngồi cùng ông Tư ngắm hoàng hôn (nghỉ: Thể lực hồi). Ông kể chuyện rừng, dặn thêm về đường mòn ("suối Cạn", "gốc thông ba chạc", "đi trước khi sương xuống"). Bà Tư vào ngồi cạnh, đeo găng cao su nắm tay ông. Vy và Đức ngồi ở ngưỡng cửa. Mặt trời lặn lúc 17:45; ông Tư nói "Giờ thì làm đi".
