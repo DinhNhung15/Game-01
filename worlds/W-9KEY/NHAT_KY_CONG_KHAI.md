@@ -62,3 +62,4 @@
 - #51 — Ngày 1 17:55–17:56 — Ông Tư bắt đầu biến đổi; Minh vung tuýp đập vào đầu ông. 🎲 d20=12+0=12 vs DC 8 (10 −2 mục tiêu nằm, co giật) → Thành công. Ông Tư ra đi lúc 17:56, trước khi kịp biến đổi hoàn toàn.
 - #52 — Ngày 1 17:56–18:15 — Bà Tư gào khóc, rồi chấp nhận ("ông ấy muốn vậy"). Lấy tấm chăn đắp cho ông. ✅ Nhiệm vụ phụ "Phòng 302" HOÀN THÀNH. Thưởng: Bà Tư thân thiết (cho cơm, nước sạch, có thể đi cùng).
 - 💾 CP3 — Ngày 1 18:15 — "Hoàng hôn ở phòng 302".
+- #53 — Ngày 1 18:15–18:30 — Minh hỏi thẳng. Vy thú nhận: không phải cắn mà bị CÀO ở cẳng tay trái, chiều hôm qua (Ngày 0), khi lén ra cửa ngách lên mỏm đồi tìm sóng điện thoại để gọi Hai; một bọn Lạnh trong rừng thông vồ được, Vy giằng ra chạy về. Giấu cả Sơ Maria vì sợ bị đuổi khỏi trường và sợ bị bỏ lại. Vy cho xem: 3 vệt cào đã đóng vảy, viền tím nhạt, gân thâm mờ — trông nhẹ hơn vết trên má Minh dù bị trước nửa ngày. Vy sốt nhẹ.
