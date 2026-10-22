@@ -92,3 +92,4 @@
 - #78 — Ngày 2 09:40–09:50 — Quyết định đưa Vy lên Viện Vắc-xin tìm thuốc. Bà Tư và Đức ở lại đồn chờ xe; Đức đòi đi theo, Bà Tư giữ lại; hẹn nếu không gặp lại thì gặp ở sân bay.
 - #79 — Ngày 2 09:50–10:10 — Qua phố chợ: 🎲 d100=97 → R10 yên tĩnh. Lẩn (ban ngày, không sương): 🎲 d20=7+2=9 vs DC 11 → Thành công một phần: 2 bọn Lạnh lết theo lên chân dốc rồi mất dấu; mất thêm sức.
 - #80 — Ngày 2 10:10–11:45 — Leo dốc Lê Lai, đi ngang cổng trường Hoa Sen (không ghé), theo đường mòn rừng thông Bắc 40' tới Viện Vắc-xin. Nghe tiếng máy phát chạy ù ù từ dưới tầng hầm.
+- #81 — Ngày 2 11:45–12:00 — Theo tiếng máy phát qua sảnh đổ nát, xuống cầu thang tới cửa thép tầng hầm ("PHÒNG THÍ NGHIỆM — CẤM VÀO"), có camera và loa intercom chạy điện máy phát. Gõ cửa. Một giọng đàn ông qua loa: đuổi đi, nói ở đây không có gì. Vy nhận ra giọng: chính là "chú bác sĩ" thuyết trình hôm tham quan và về trường tiêm "phòng cúm".
