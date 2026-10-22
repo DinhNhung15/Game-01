@@ -21,3 +21,5 @@
 - #13 — Ngày 1 11:40–12:10 — Chế tạo "giày bùn" từ mặt ghế nhựa + dây điện. 🎲 d20=17+2=19 vs DC 14 → Thành công. (Luật: lội bùn Thể lực −8/giờ thay vì −10, DC di chuyển trong bùn −2; bền ~2 chặng lội.)
 - #14 — Ngày 1 12:10–12:40 — Rút dây điện tường tầng 3, bện địu cho Na. 🎲 d20=11+2=13 vs DC 14 → Thành công một phần (trượt 1–2 điểm = một phần): địu dùng được nhưng lỏng, Tú phải dừng chỉnh lại mỗi chặng (+10 phút/chặng).
 - #15 — Ngày 1 12:40–13:00 — Hỏi Tú về "bọn ở cảng". Tú thú nhận từng theo nhóm Bến Cá 3 ngày; kể về thủ lĩnh Hắc, ~chục người, 1 súng săn, và chiếc xuồng máy còn chạy cùng mấy can xăng giấu ở bãi container cảng.
+- #16 — Ngày 1 13:00–13:30 — Nhóm lửa bằng gỗ bàn + giấy tầng 3, dùng lần bật lửa cuối. 🎲 d20=4+0=4 vs DC 14 → Thất bại. Giấy cháy hết, gỗ không bắt lửa. Bật lửa: hết gas (đá lửa còn bật tia). Còn lại: đống phôi gỗ bào + gỗ bàn đã chuẩn bị.
+- #17 — Ngày 1 13:30–13:45 — Thay băng gạc (băng 2→1, cồn 70% 2→1). Vết thương sạch.
