@@ -52,3 +52,4 @@
 - #42 — Ngày 1 12:31–13:20 — Leo dốc Lê Lai (45' + chậm vì cổ chân) lên đồi Tây. Không biến cố. Tới cổng trường Hoa Sen: cổng sắt chắn bàn ghế, có học sinh canh trên gác chuông.
 - #43 — Ngày 1 13:20–13:30 — Vẫy tay ra hiệu. Vy nhận ra Hai, Sơ Maria cho mở cửa ngách bên hông (trường thân thiện với người nhà học sinh). Vy lao ra ôm chầm. Sơ Maria thấy miếng băng trên má Minh, hỏi thẳng. Vy khựng lại khi nghe chữ "cào", kéo tay áo len che cẳng tay trái.
 - 💾 CP2 — Ngày 1 13:30 — "Gặp Vy" (mốc chương).
+- #44 — Ngày 1 13:30–13:45 — Minh nói với Sơ Maria về điểm sơ tán ở sân bay và muốn đưa Vy đi ngay. Sơ: đã nghe đài, nhưng không thể dắt 18 đứa trẻ đi 2 tiếng đường đỉnh đồi khi không biết giờ trực thăng; nhờ Minh nếu tới sân bay thì báo quân đội về 18 học sinh ở đây. Sơ không ngăn Minh đưa Vy đi. Vy lưỡng lự, hỏi "ở sân bay người ta có khám không". Đức nhắc lời hứa với ông Tư trước khi mặt trời lặn.
