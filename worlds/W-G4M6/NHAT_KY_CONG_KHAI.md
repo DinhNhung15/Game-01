@@ -13,5 +13,5 @@
 - #5 — Ngày 1 08:10–08:30 — Đun thêm 1 ca 500ml cho Tú và Na (bật lửa 4→3, cồn 150→100ml). Băng tạm vết xước bằng túi nylon (túi nylon 2→1).
 - #6 — Ngày 1 08:30–09:00 — Lội bùn xuống phòng y tế tầng 1. 🎲 d20=19+0=19 vs DC 16 → Thành công. Nhận: băng gạc ×1 cuộn, cồn 70% 100ml (≈3 lần sát trùng).
 - #7 — Ngày 1 09:00–09:35 — Căng tin tầng 1, leo lấy đồ kệ cao. 🎲 d20=17+1=18 vs DC 12 → Thành công. Nhận: mì gói ×2. Quay lại tầng 3.
-- #8 — Ngày 1 09:35–09:45 — Sát trùng vết xước bằng cồn 70% (3→2 lần), băng bằng băng gạc (cuộn còn ~2 lần thay). Bỏ lớp nylon (giữ lại túi nylon ×1? — túi đã dính bùn, vứt bỏ).
+- #8 — Ngày 1 09:35–09:45 — Sát trùng vết xước bằng cồn 70% (3→2 lần), băng bằng băng gạc (cuộn còn ~2 lần thay). Tháo bỏ lớp nylon đã dính bùn (túi đã tính tiêu hao ở #5; túi nylon còn ×1 không đổi).
 - #9 — Ngày 1 09:45–10:15 — Bàn với Tú về việc đi lên phía bắc; Tú kể về các khu quanh trường (chợ, cảng, bệnh viện, nhà thờ, trạm khí tượng, mũi Đá Vôi) theo hiểu biết của anh.
