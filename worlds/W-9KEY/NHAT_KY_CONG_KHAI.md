@@ -45,3 +45,6 @@
 - 💾 CP1 — Ngày 1 10:50 — "Sau tấm bạt xanh" (ghi nhận muộn tại sự kiện #37; trạng thái theo mốc 10:50: Máu 16, Đói 36, Khát 41, Thể lực 58, Nhiễm 20, ở đường cống dưới phố chợ, đã có đồ siêu thị, chưa có sổ ông Tư).
 - 📝 Làm rõ luật (World không ghi, ENGINE quyết định và áp dụng từ nay): Máu hồi +2 sau mỗi giấc ngủ ≥6 giờ khi Đói và Khát dưới 80; chữa trị y tế (thuốc, băng, bác sĩ) hồi thêm tùy loại. Chỉ số nền nhân vật không tự tăng.
 - #37 — Ngày 1 12:00 — Người chơi hỏi giải thích chỉ số (ngoài truyện, không tốn thời gian).
+- #38 — Ngày 1 12:00–12:05 — Lấy rìu chặt củi ở góc phòng 302 (luật: đánh đầu bằng rìu +1). Bà Tư dặn về trước khi mặt trời lặn; Đức đi cùng.
+- #39 — Ngày 1 12:05–12:30 — Đường mái: 🎲 d20=9+2=11 vs DC 10 → Thành công. Xuống cống ra sau dãy hàng cá. Vào phố chợ: 🎲 d100=58 → R7: một bọn Lạnh kẹt trong chiếc taxi đầu đường Lê Lai (🎲 d2=2 → không có đồ ăn).
+- #40 — Ngày 1 12:30 — Lẻn qua phố chợ ra chân dốc Lê Lai. 🎲 d20=2+2(Nhanh nhẹn)+2(Đức)=6 vs DC 10 → Thất bại: con trong taxi đập kính khi hai người đi ngang, Đức giật mình làm đổ sạp; 3 bọn Lạnh phát hiện, đuổi theo từ cách ~20 bước.
