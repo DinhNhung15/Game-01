@@ -50,3 +50,5 @@
 - #40 — Ngày 1 12:30 — Lẻn qua phố chợ ra chân dốc Lê Lai. 🎲 d20=2+2(Nhanh nhẹn)+2(Đức)=6 vs DC 10 → Thất bại: con trong taxi đập kính khi hai người đi ngang, Đức giật mình làm đổ sạp; 3 bọn Lạnh phát hiện, đuổi theo từ cách ~20 bước.
 - #41 — Ngày 1 12:30–12:31 — Ném chiếc mâm nhôm thật xa về phía cuối phố để đánh lạc hướng. 🎲 d20=15+2=17 vs DC 14 (10 +4 vì bọn Lạnh đã khóa mục tiêu) → Thành công: mâm đập vào cửa cuốn tiệm vàng cuối phố rồi lăn kêu loảng xoảng; cả 3 bọn Lạnh quay đầu đuổi theo tiếng động.
 - #42 — Ngày 1 12:31–13:20 — Leo dốc Lê Lai (45' + chậm vì cổ chân) lên đồi Tây. Không biến cố. Tới cổng trường Hoa Sen: cổng sắt chắn bàn ghế, có học sinh canh trên gác chuông.
+- #43 — Ngày 1 13:20–13:30 — Vẫy tay ra hiệu. Vy nhận ra Hai, Sơ Maria cho mở cửa ngách bên hông (trường thân thiện với người nhà học sinh). Vy lao ra ôm chầm. Sơ Maria thấy miếng băng trên má Minh, hỏi thẳng. Vy khựng lại khi nghe chữ "cào", kéo tay áo len che cẳng tay trái.
+- 💾 CP2 — Ngày 1 13:30 — "Gặp Vy" (mốc chương).
