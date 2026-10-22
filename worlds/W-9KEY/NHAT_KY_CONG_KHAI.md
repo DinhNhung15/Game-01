@@ -76,3 +76,5 @@
 - #64 — Ngày 2 07:50–07:52 — Trong sảnh cấp cứu: 🎲 d20=9+2=11 vs DC 10 → Thành công: 3 bọn Lạnh trong sảnh không phát hiện.
 - #65 — Ngày 2 07:52–08:05 — Lục nhà thuốc (vội): 🎲 d20=9+0=9 vs DC 10 → Thành công một phần: lấy được kháng sinh ×1 hộp, thuốc giảm đau ×1 vỉ, băng y tế ×2, hộp que thử nhanh "LV-7" ×10 que. Bỏ sót: kháng sinh hộp thứ 2, 1 băng. Bọn Lạnh ngoài sân đang chen vào khe cửa kính kẹt.
 - #66 — Ngày 2 08:05–08:06 — Kéo Vy chạy vào hành lang tới lối thoát hiểm. 🎲 d20=3+2=5 vs DC 11 (10 +1 kéo theo người) → Thất bại: một bọn Lạnh mặc áo blouse lao ra từ phòng bên, chụp được quai ba lô của Vy, kéo ngược lại. Phía sau, bọn ngoài sảnh đã chen vào. Chưa xác định kết quả vồ — chờ phản ứng của Minh.
+- #67 — Ngày 2 08:06 — Bổ rìu vào đầu gã bác sĩ đang kéo Vy. 🎲 d20=8+0+1(rìu)=9 vs DC 8 (10 −2 gã đang chú ý vào Vy) → Thành công: gã gục, Vy thoát, không bị thương.
+- #68 — Ngày 2 08:06–08:07 — Chạy tới cửa thoát hiểm. 🎲 d20=1+2=3 vs DC 11 → Thất bại: cửa thoát hiểm bị xích từ bên ngoài, không mở được. Bầy từ sảnh còn ~10 bước. Bên cạnh có cầu thang bộ lên tầng 2 và một phòng kho cửa sắt.
