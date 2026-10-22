@@ -78,3 +78,4 @@
 - #66 — Ngày 2 08:05–08:06 — Kéo Vy chạy vào hành lang tới lối thoát hiểm. 🎲 d20=3+2=5 vs DC 11 (10 +1 kéo theo người) → Thất bại: một bọn Lạnh mặc áo blouse lao ra từ phòng bên, chụp được quai ba lô của Vy, kéo ngược lại. Phía sau, bọn ngoài sảnh đã chen vào. Chưa xác định kết quả vồ — chờ phản ứng của Minh.
 - #67 — Ngày 2 08:06 — Bổ rìu vào đầu gã bác sĩ đang kéo Vy. 🎲 d20=8+0+1(rìu)=9 vs DC 8 (10 −2 gã đang chú ý vào Vy) → Thành công: gã gục, Vy thoát, không bị thương.
 - #68 — Ngày 2 08:06–08:07 — Chạy tới cửa thoát hiểm. 🎲 d20=1+2=3 vs DC 11 → Thất bại: cửa thoát hiểm bị xích từ bên ngoài, không mở được. Bầy từ sảnh còn ~10 bước. Bên cạnh có cầu thang bộ lên tầng 2 và một phòng kho cửa sắt.
+- #69 — Ngày 2 08:07–08:08 — Kéo Vy vào kho vật tư y tế, đóng sầm cửa sắt, gài chốt trong. 🎲 d20=13+2=15 vs DC 11 → Thành công. Kho tối, kệ đã bị vét trống (chỉ còn thùng carton rỗng). Không có lối ra khác. Bầy Lạnh đập cửa bên ngoài.
