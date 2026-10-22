@@ -52,3 +52,11 @@
 - #41 — Ngày 2 12:50–13:25 — Lục dãy gác xép phía sau trong lúc tránh nước, Tú phụ (+2). 🎲 d20=11+0+2=13 vs DC 19 → Thất bại. Nước rút dần.
 - 📝 Minh bạch: ENGINE đã tung trước lượt lục tiệm thuốc Phúc An (🎲 d20=5) cùng lúc với các xúc xắc trên. Kết quả đã tung là chốt: nếu lục tiệm thuốc trong lần ghé chợ này → 5+0+2(Tú)=7 vs DC 16 → Thất bại.
 - ⏸️ Ngày 2 13:25 — ENGINE tạm dừng: Máu 1,6, tình trạng thay đổi lớn, trả quyền quyết định cho người chơi.
+- #42 — Ngày 2 13:25–14:05 — Lục tiệm thuốc Phúc An (xúc xắc đã tung trước): 🎲 d20=5+0+2=7 vs DC 16 → Thất bại.
+- #43 — Ngày 2 ~14:13 — ☠️ Trần An tử vong (Máu = 0) do đói, khát kiệt sức và sốt bùn, tại chợ Đầm Cũ. Tú ở bên cạnh.
+
+### KẾT QUẢ LƯỢT #1 — ĐÃ CHẾT
+- Kết cục: THUA — "Bùn đen"
+- Sống sót: Ngày 1 06:10 → Ngày 2 ~14:13 (~32 giờ) · Số sự kiện: 43
+- Nhiệm vụ: chính chưa hoàn thành; phụ "Giếng thánh" đã mở, chưa hoàn thành
+- Checkpoint còn hợp lệ: CP0 (Ngày 1 06:10, trường học), CP1 (Ngày 1 19:45, nhà thờ)
