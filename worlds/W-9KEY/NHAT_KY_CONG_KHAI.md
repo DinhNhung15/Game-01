@@ -54,3 +54,6 @@
 - 💾 CP2 — Ngày 1 13:30 — "Gặp Vy" (mốc chương).
 - #44 — Ngày 1 13:30–13:45 — Minh nói với Sơ Maria về điểm sơ tán ở sân bay và muốn đưa Vy đi ngay. Sơ: đã nghe đài, nhưng không thể dắt 18 đứa trẻ đi 2 tiếng đường đỉnh đồi khi không biết giờ trực thăng; nhờ Minh nếu tới sân bay thì báo quân đội về 18 học sinh ở đây. Sơ không ngăn Minh đưa Vy đi. Vy lưỡng lự, hỏi "ở sân bay người ta có khám không". Đức nhắc lời hứa với ông Tư trước khi mặt trời lặn.
 - #45 — Ngày 1 13:45–14:00 — Minh gạt đi, bắt Vy đi ngay. Vy chạy lên lấy ba lô, chào vội bạn bè; khi Minh nắm cẳng tay trái kéo đi, Vy nhăn mặt rụt tay lại. Sơ Maria làm dấu thánh giá tiễn ra cửa ngách. Ba người ra tới ngã ba đầu dốc: rẽ phải là đường đỉnh đồi Thông đi sân bay (~2h), đi xuống là dốc Lê Lai về nhà trọ (~1h).
+- #46 — Ngày 1 14:00–14:50 — Xuống dốc Lê Lai về phố chợ. Vy hỏi chuyện ông Tư, Minh kể. Vào phố chợ: 🎲 d100=75 → R10 yên tĩnh. Lẻn qua chợ: 🎲 d20=7+2+2(Đức)=11 vs DC 11 (10 +1 thêm người) → Thành công.
+- #47 — Ngày 1 14:50–15:15 — Cống → sân sau → leo mái. 🎲 d20=2+2=4 vs DC 10 → Thất bại: hụt chân, Vy và Đức níu kịp tay nhưng cổ chân phải đập vào mép tường (Máu −1, trẹo cổ chân nặng thêm → thương tích mức 2, +1 DC thể chất). Về tới trọ.
+- #48 — Ngày 1 15:15–15:25 — Bà Tư ôm Vy. Ông Tư (gân thâm lên tới cằm, vẫn tỉnh) xin được nhìn mặt trời lặn lần cuối từ cửa sổ, rồi "làm cho xong".
