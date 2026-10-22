@@ -29,3 +29,7 @@
 - #21 — Ngày 1 14:35–15:15 — Nhóm lửa bằng cách chập pin đèn pin qua sợi dây đồng mảnh (Thợ điện). 🎲 d20=8+2(Trí tuệ)+2(Thợ điện)=12 vs DC 14 → Thành công một phần: lửa bén nhưng yếu, nhiều khói sơn; pin cạn → đèn pin HẾT PIN.
 - #22 — Ngày 1 15:15–16:05 — Lửa đun được 3 ca trước khi tàn: 1 ca đổ vào chai 500ml của An; 2 ca đun lại nước chưa đun trong chai của Tú → chai Tú còn ~1 lít nước ĐÃ ĐUN. Lửa tắt hẳn.
 - ⏸️ ENGINE tạm dừng: kế hoạch nghỉ qua đêm không ăn dẫn tới tử vong do đói. Công bố luật tiêu hao Level 5: Đói +4/giờ thức, +2/giờ ngủ; Khát +6/giờ (+2 khi oi); Đói/Khát ≥80: −5 Thể lực & −1 Máu/giờ; =100: −2 Máu/giờ.
+- #23 — Ngày 1 16:05–17:00 — Cả nhóm rời trường đi chợ Đầm Cũ (lội bùn, giày bùn chặng 1, địu +10'). Vào chợ: 🎲 d100=72 → R8 vật tư nhỏ, 🎲 d3=3 → Pin AA ×2 (tình trạng chưa rõ).
+- #24 — Ngày 1 17:00–17:40 — Lục gác xép chợ tìm đồ ăn, Tú phụ giúp (+2). 🎲 d20=12+0+2=14 vs DC 18 (16 +2 Thể lực thấp/leo trèo) → Thất bại. Không tìm được đồ ăn.
+- #25 — Ngày 1 17:40–19:15 — Đi từ chợ lên nhà thờ Đông Hải, trời tối giữa đường (+50% thời gian), giày bùn chặng 2 → HỎNG. Biến cố đường đi 🎲 d100=84 → R9 không có gì.
+- #26 — Ngày 1 19:15 — Đến cổng nhà thờ Đông Hải. Chờ người chơi hành động.
