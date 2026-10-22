@@ -28,3 +28,6 @@
 - #22 — Ngày 1 10:17 — Đập tuýp vào đầu cô thu ngân đang lao tới. 🎲 d20=17+0=17 vs DC 10 → Thành công: cô gục xuống.
 - #23 — Ngày 1 10:17–10:18 — Lùi ẩn sau dãy kệ. 🎲 d20=9+2=11 vs DC 12 (10 +2 kẻ địch kề sát đã thấy) → Thành công một phần: Minh vào được sau kệ đồ gia dụng, gã quản lý đâm sầm vào đầu kệ, khựng lại rồi lần theo mép kệ vòng sang.
 - #24 — Ngày 1 10:18–10:19 — Phục kích gã quản lý ở đầu kệ. 🎲 d20=14+0=14 vs DC 8 (10 −2 đánh úp) → Thành công: gã gục. Siêu thị yên tĩnh trở lại.
+- #25 — Ngày 1 10:19–10:35 — Lục siêu thị: kệ mì đã trống (không có mì). Lấy được đồ hộp ×8, nước suối 500ml ×10. Ở quầy thu ngân có xấp túi vải siêu thị, lấy 1 chiếc. Chia: ba lô Minh 4 đồ hộp + 6 chai nước; túi vải cho Đức 4 đồ hộp + 4 chai nước. Kho phía sau trống.
+- #26 — Ngày 1 10:35–10:37 — Băng đường về ki-ốt. 🎲 d20=17+2=19 vs DC 10 → Thành công.
+- #27 — Ngày 1 10:37–10:42 — Hỏi Đức có chắc muốn cho má "nghỉ" không. Đức: chắc, nhưng xin Hai làm thay vì em không đánh được má; em muốn đứng nhìn, lấy hộp sữa trong giỏ, và đắp tấm bạt xanh lên cho má.
