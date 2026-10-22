@@ -84,3 +84,8 @@
 - #72 — Ngày 2 08:40–08:50 — Áp tai nghe ngóng. 🎲 d20=18+1=19 vs DC 10 → Thành công: chỉ còn 2 bọn Lạnh ngay ngoài cửa (1 ngồi gục, 1 đứng), số còn lại đã tản về phía sảnh. Hai anh em bàn: phải ra báo Trung úy và quân đội rằng Viện Vắc-xin có thể là nơi phát tán virus và có thể có vắc-xin.
 - #73 — Ngày 2 08:50 — Mở cửa đánh úp. Con 1 (ngồi gục): 🎲 d20=8+0+1(rìu)=9 vs DC 8 → Thành công, hạ. Con 2 (đứng): 🎲 d20=5+0+1=6 vs DC 10 → Thất bại: lưỡi rìu cắm vào khung cửa, con 2 (bà lao công) vồ lấy Minh. Chờ phản ứng người chơi.
 - 📝 Minh bạch: đã tung trước lượt lẩn ra khỏi bệnh viện (🎲 d20=14) — sẽ áp dụng khi hai anh em lẻn ra qua sảnh trong lần này.
+- #74 — Ngày 2 08:50 — Bị ghì vào tường, vớ bình chữa cháy treo trên tường quật vào đầu bà lao công. 🎲 d20=16+0=16 vs DC 12 (10 +2 đang bị ghì) → Thành công: bà gục. (Lượt bảng vồ tung kèm 🎲 5 không áp dụng vì đòn đánh thành công.) Giật rìu khỏi khung cửa.
+- #75 — Ngày 2 08:50–09:00 — Lẻn ra qua sảnh cấp cứu, dùng xúc xắc đã tung trước: 🎲 d20=14+2=16 vs DC 11 → Thành công. Ra ngoài lúc sương bắt đầu tan.
+- #76 — Ngày 2 09:00–09:25 — Về đồn phường 3 (không biến cố). Giao hộp kháng sinh cho Hoàng Quân. ✅ Nhiệm vụ phụ "Món nợ của Đội Tự Vệ" HOÀN THÀNH: Bà Tư + Đức có 2 chỗ trên xe bán tải; Hoàng Quân → thân thiện.
+- #77 — Ngày 2 09:25–09:40 — Minh kể về que thử của Viện (sản xuất 4 tháng trước), mũi "tiêm cúm" 2 tháng trước ở trường Hoa Sen, vết cào của Vy lan chậm. Hoàng Quân tiết lộ (radio quân sự): chuyến trực thăng CUỐI rời sân bay 06:00 Ngày 4; quân đội kiểm dịch bằng que thử, dương tính là không cho lên; nghe phong thanh có lệnh "làm sạch" thành phố sau khi sơ tán xong. Đội Tự Vệ dự định xuất phát ra sân bay trước sáng Ngày 4.
+- 💾 CP4 — Ngày 2 09:40 — "Món nợ đã trả" (hoàn thành nhiệm vụ phụ).
