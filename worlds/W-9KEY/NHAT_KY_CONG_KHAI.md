@@ -22,3 +22,5 @@
 - #16 — Ngày 1 10:10–10:12 — Hỏi Đức muốn "nghỉ" thế nào. Đức: "Nằm xuống như người ta. Không đứng ngoài mưa nữa." Minh dặn Đức ở yên trong ki-ốt.
 - #17 — Ngày 1 10:12–10:15 — Băng qua đường sang siêu thị Bình An. 🎲 d20=4+2=6 vs DC 9 (10 −1 mưa lâm râm) → Thất bại: một bọn Lạnh mặc áo xe ôm phát hiện, lết theo. Minh chui qua khe cửa cuốn kẹt vào trong.
 - #18 — Ngày 1 10:15 — Trong siêu thị tối: 🎲 d20=10+2=12 vs DC 10 → Thành công: 2 bọn Lạnh ở khu kho phía sau chưa phát hiện. Tên áo xe ôm đang bò vào qua khe cửa cuốn.
+- #19 — Ngày 1 10:15–10:16 — Đập tuýp sắt vào đầu tên áo xe ôm đang bò dưới khe cửa cuốn. 🎲 d20=16+0=16 vs DC 8 (10 −2 mục tiêu bị kẹt) → Thành công: một phát nát sọ, gã nằm im. ✔ Xác minh: một cú đánh mạnh trúng đầu là hạ được.
+- #20 — Ngày 1 10:16 — Tiếng va đập trong siêu thị: 🎲 d20=8+2=10 vs DC 12 → Thành công một phần: 2 bọn Lạnh ở cửa kho nghe động, quay ra, lết chậm về phía quầy thu ngân nhưng chưa xác định được vị trí Minh.
