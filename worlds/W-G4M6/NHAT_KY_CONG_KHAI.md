@@ -26,3 +26,6 @@
 - #18 — Ngày 1 13:45–13:50 — Uống chai 500ml nước đã đun (Khát −20). Chai rỗng.
 - #19 — Ngày 1 13:50–14:30 — Nhóm lửa lần 2 bằng tia đá lửa + giấy vụn + phôi gỗ (không dùng đồ y tế). 🎲 d20=11+0=11 vs DC 16 → Thất bại.
 - #20 — Ngày 1 14:30–14:35 — Uống 1 lít (2 ca) nước bồn mái CHƯA đun (Khát −40). Nhiễm +10 (quy ước: tính theo mỗi 500ml).
+- #21 — Ngày 1 14:35–15:15 — Nhóm lửa bằng cách chập pin đèn pin qua sợi dây đồng mảnh (Thợ điện). 🎲 d20=8+2(Trí tuệ)+2(Thợ điện)=12 vs DC 14 → Thành công một phần: lửa bén nhưng yếu, nhiều khói sơn; pin cạn → đèn pin HẾT PIN.
+- #22 — Ngày 1 15:15–16:05 — Lửa đun được 3 ca trước khi tàn: 1 ca đổ vào chai 500ml của An; 2 ca đun lại nước chưa đun trong chai của Tú → chai Tú còn ~1 lít nước ĐÃ ĐUN. Lửa tắt hẳn.
+- ⏸️ ENGINE tạm dừng: kế hoạch nghỉ qua đêm không ăn dẫn tới tử vong do đói. Công bố luật tiêu hao Level 5: Đói +4/giờ thức, +2/giờ ngủ; Khát +6/giờ (+2 khi oi); Đói/Khát ≥80: −5 Thể lực & −1 Máu/giờ; =100: −2 Máu/giờ.
