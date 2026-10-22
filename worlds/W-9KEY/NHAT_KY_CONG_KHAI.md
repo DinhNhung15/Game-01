@@ -89,3 +89,6 @@
 - #76 — Ngày 2 09:00–09:25 — Về đồn phường 3 (không biến cố). Giao hộp kháng sinh cho Hoàng Quân. ✅ Nhiệm vụ phụ "Món nợ của Đội Tự Vệ" HOÀN THÀNH: Bà Tư + Đức có 2 chỗ trên xe bán tải; Hoàng Quân → thân thiện.
 - #77 — Ngày 2 09:25–09:40 — Minh kể về que thử của Viện (sản xuất 4 tháng trước), mũi "tiêm cúm" 2 tháng trước ở trường Hoa Sen, vết cào của Vy lan chậm. Hoàng Quân tiết lộ (radio quân sự): chuyến trực thăng CUỐI rời sân bay 06:00 Ngày 4; quân đội kiểm dịch bằng que thử, dương tính là không cho lên; nghe phong thanh có lệnh "làm sạch" thành phố sau khi sơ tán xong. Đội Tự Vệ dự định xuất phát ra sân bay trước sáng Ngày 4.
 - 💾 CP4 — Ngày 2 09:40 — "Món nợ đã trả" (hoàn thành nhiệm vụ phụ).
+- #78 — Ngày 2 09:40–09:50 — Quyết định đưa Vy lên Viện Vắc-xin tìm thuốc. Bà Tư và Đức ở lại đồn chờ xe; Đức đòi đi theo, Bà Tư giữ lại; hẹn nếu không gặp lại thì gặp ở sân bay.
+- #79 — Ngày 2 09:50–10:10 — Qua phố chợ: 🎲 d100=97 → R10 yên tĩnh. Lẩn (ban ngày, không sương): 🎲 d20=7+2=9 vs DC 11 → Thành công một phần: 2 bọn Lạnh lết theo lên chân dốc rồi mất dấu; mất thêm sức.
+- #80 — Ngày 2 10:10–11:45 — Leo dốc Lê Lai, đi ngang cổng trường Hoa Sen (không ghé), theo đường mòn rừng thông Bắc 40' tới Viện Vắc-xin. Nghe tiếng máy phát chạy ù ù từ dưới tầng hầm.
