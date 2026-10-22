@@ -23,3 +23,5 @@
 - #15 — Ngày 1 12:40–13:00 — Hỏi Tú về "bọn ở cảng". Tú thú nhận từng theo nhóm Bến Cá 3 ngày; kể về thủ lĩnh Hắc, ~chục người, 1 súng săn, và chiếc xuồng máy còn chạy cùng mấy can xăng giấu ở bãi container cảng.
 - #16 — Ngày 1 13:00–13:30 — Nhóm lửa bằng gỗ bàn + giấy tầng 3, dùng lần bật lửa cuối. 🎲 d20=4+0=4 vs DC 14 → Thất bại. Giấy cháy hết, gỗ không bắt lửa. Bật lửa: hết gas (đá lửa còn bật tia). Còn lại: đống phôi gỗ bào + gỗ bàn đã chuẩn bị.
 - #17 — Ngày 1 13:30–13:45 — Thay băng gạc (băng 2→1, cồn 70% 2→1). Vết thương sạch.
+- #18 — Ngày 1 13:45–13:50 — Uống chai 500ml nước đã đun (Khát −20). Chai rỗng.
+- #19 — Ngày 1 13:50–14:30 — Nhóm lửa lần 2 bằng tia đá lửa + giấy vụn + phôi gỗ (không dùng đồ y tế). 🎲 d20=11+0=11 vs DC 16 → Thất bại.
