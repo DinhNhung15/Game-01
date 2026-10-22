@@ -27,3 +27,4 @@
 - #21 — Ngày 1 10:16–10:17 — Nhặt một lon nước ngọt rỗng méo dưới sàn, ném qua đầu hai bọn Lạnh về phía kho để đánh lạc hướng. 🎲 d20=2+2=4 vs DC 10 → Thất bại: lon đập vào biển treo giữa lối, rơi xuống lăn về phía Minh; hai bọn Lạnh xác định hướng, rú lên, lao nhanh hơn ra lối giữa — cách Minh ~4 bước.
 - #22 — Ngày 1 10:17 — Đập tuýp vào đầu cô thu ngân đang lao tới. 🎲 d20=17+0=17 vs DC 10 → Thành công: cô gục xuống.
 - #23 — Ngày 1 10:17–10:18 — Lùi ẩn sau dãy kệ. 🎲 d20=9+2=11 vs DC 12 (10 +2 kẻ địch kề sát đã thấy) → Thành công một phần: Minh vào được sau kệ đồ gia dụng, gã quản lý đâm sầm vào đầu kệ, khựng lại rồi lần theo mép kệ vòng sang.
+- #24 — Ngày 1 10:18–10:19 — Phục kích gã quản lý ở đầu kệ. 🎲 d20=14+0=14 vs DC 8 (10 −2 đánh úp) → Thành công: gã gục. Siêu thị yên tĩnh trở lại.
