@@ -25,3 +25,4 @@
 - #17 — Ngày 1 13:30–13:45 — Thay băng gạc (băng 2→1, cồn 70% 2→1). Vết thương sạch.
 - #18 — Ngày 1 13:45–13:50 — Uống chai 500ml nước đã đun (Khát −20). Chai rỗng.
 - #19 — Ngày 1 13:50–14:30 — Nhóm lửa lần 2 bằng tia đá lửa + giấy vụn + phôi gỗ (không dùng đồ y tế). 🎲 d20=11+0=11 vs DC 16 → Thất bại.
+- #20 — Ngày 1 14:30–14:35 — Uống 1 lít (2 ca) nước bồn mái CHƯA đun (Khát −40). Nhiễm +10 (quy ước: tính theo mỗi 500ml).
