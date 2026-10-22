@@ -41,3 +41,7 @@
 - #35 — Ngày 1 11:25–11:40 — Minh nói thật: chỉ thấy nóng ở vết cào, đùa chuyện "ở chung với ông Tư". Bà Tư mắng, rồi bôi thuốc đỏ, băng vết cào bằng cuộn băng của bà (đồ của Bà Tư: thuốc đỏ dùng một phần, hết cuộn băng). Bà đặt lệ: Minh ngủ phòng riêng, cửa không khóa, mỗi tối bà xem mặt. Ông Tư nghe tiếng, gọi Minh vào phòng 302.
 - #36 — Ngày 1 11:40–12:00 — Vào 302 nói chuyện với ông Tư. Ông kể (từ những gì ông thấy trong xóm): bị cào thì chậm hơn bị cắn, người bị cào ở xóm dưới hai, ba ngày mới ngã; thằng Lũy bị cắn ngón tay, chặt ngón ngay thì sống. Ông đưa cuốn sổ bìa da cho Minh ngay vì "mày không có nhiều thời gian bằng mày tưởng", nhưng vẫn giữ lời hẹn trước khi mặt trời lặn. Gân thâm của ông đã lan lên vai.
 - 📒 Nhận: Sổ tay ông Tư (sơ đồ đường mòn gỗ Đèo Sương).
+- ✅ Nhiệm vụ phụ "Đứa trẻ trên mái" HOÀN THÀNH (mốc 10:50, khi Minh và Đức thoát xuống cống sau khi cho má Đức "nghỉ"). Thưởng: Đức đi cùng (+2 lẩn trốn ở khu trọ – phố chợ, thuộc đường cống).
+- 💾 CP1 — Ngày 1 10:50 — "Sau tấm bạt xanh" (ghi nhận muộn tại sự kiện #37; trạng thái theo mốc 10:50: Máu 16, Đói 36, Khát 41, Thể lực 58, Nhiễm 20, ở đường cống dưới phố chợ, đã có đồ siêu thị, chưa có sổ ông Tư).
+- 📝 Làm rõ luật (World không ghi, ENGINE quyết định và áp dụng từ nay): Máu hồi +2 sau mỗi giấc ngủ ≥6 giờ khi Đói và Khát dưới 80; chữa trị y tế (thuốc, băng, bác sĩ) hồi thêm tùy loại. Chỉ số nền nhân vật không tự tăng.
+- #37 — Ngày 1 12:00 — Người chơi hỏi giải thích chỉ số (ngoài truyện, không tốn thời gian).
