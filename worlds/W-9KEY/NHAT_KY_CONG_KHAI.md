@@ -18,3 +18,4 @@
 - #12 — Ngày 1 09:20–09:45 — Đi đường mái. Nhảy qua mái nhà ông Lành: 🎲 d20=4+2=6 vs DC 10 → Thất bại: trượt trên mái tôn, đập gối (Máu −2, trầy gối – thương tích mức 1), tiếng tôn vang lớn; 4 bọn Lạnh tụ lại đầu hẻm phía trước. Nấp im 10 phút rồi xuống cống sân sau.
 - #13 — Ngày 1 09:45–09:55 — Chui cống, trồi lên sau dãy hàng cá. Vào phố chợ: 🎲 d100=51 → R6 Mưa rừng (tiếng động khó thu hút).
 - #14 — Ngày 1 09:55–10:00 — Minh túm Đức kéo lại sau sạp cá (không tung — khoảng cách gần). Người đàn bà ở sạp 17 quay mặt nửa chừng: mắt trắng đục, vết cắn ở cổ — mẹ Đức đã thành bọn Lạnh. Bà chưa phát hiện hai người (mưa át tiếng).
+- #15 — Ngày 1 10:00–10:10 — Tìm chỗ trốn: lẻn vào ki-ốt kho nước đá bằng tôn cách 5 bước, khép hờ cửa. 🎲 d20=15+2=17 vs DC 9 (10 −2 mưa át tiếng +1 Đức đang nức nở) → Thành công. Mẹ Đức đi tới chỗ cũ, đứng một lúc rồi lết về lại sạp 17. Từ khe cửa thấy siêu thị mini Bình An bên kia đường, cửa cuốn kẹt nửa chừng.
