@@ -31,3 +31,5 @@
 - #25 — Ngày 1 10:19–10:35 — Lục siêu thị: kệ mì đã trống (không có mì). Lấy được đồ hộp ×8, nước suối 500ml ×10. Ở quầy thu ngân có xấp túi vải siêu thị, lấy 1 chiếc. Chia: ba lô Minh 4 đồ hộp + 6 chai nước; túi vải cho Đức 4 đồ hộp + 4 chai nước. Kho phía sau trống.
 - #26 — Ngày 1 10:35–10:37 — Băng đường về ki-ốt. 🎲 d20=17+2=19 vs DC 10 → Thành công.
 - #27 — Ngày 1 10:37–10:42 — Hỏi Đức có chắc muốn cho má "nghỉ" không. Đức: chắc, nhưng xin Hai làm thay vì em không đánh được má; em muốn đứng nhìn, lấy hộp sữa trong giỏ, và đắp tấm bạt xanh lên cho má.
+- #28 — Ngày 1 10:42–10:44 — Đồng ý với Đức. Mở 1 chai nước, uống một ngụm (~100ml, Khát −4; chai còn ~400ml).
+- #29 — Ngày 1 10:44–10:46 — Tiếp cận mẹ Đức từ phía sau. 🎲 d20=4+2=6 vs DC 10 → Thất bại: bà quay lại. Ra tay: 🎲 d20=1+0=1 vs DC 10 (mất yếu tố bất ngờ) → Thất bại: tuýp trượt, đập vào cột sạt, bà vồ lấy cánh tay trái Minh (lớp áo khoác + băng keo đang chặn). Chờ phản ứng của người chơi trước khi tung thoát vồ.
