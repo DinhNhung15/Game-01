@@ -33,3 +33,6 @@
 - #24 — Ngày 1 17:00–17:40 — Lục gác xép chợ tìm đồ ăn, Tú phụ giúp (+2). 🎲 d20=12+0+2=14 vs DC 18 (16 +2 Thể lực thấp/leo trèo) → Thất bại. Không tìm được đồ ăn.
 - #25 — Ngày 1 17:40–19:15 — Đi từ chợ lên nhà thờ Đông Hải, trời tối giữa đường (+50% thời gian), giày bùn chặng 2 → HỎNG. Biến cố đường đi 🎲 d100=84 → R9 không có gì.
 - #26 — Ngày 1 19:15 — Đến cổng nhà thờ Đông Hải. Chờ người chơi hành động.
+- #27 — Ngày 1 19:15–19:30 — Giơ tay, trả lời thật (3 người, không ai ho), xin vào trú và nhận làm việc. Lính gác soi đèn kiểm tra tay, họng → không có triệu chứng. Giáo xứ thu nhận theo luật "khỏe mạnh + chịu làm việc".
+- #28 — Ngày 1 19:30–19:45 — Xin ăn vì đói lả. 🎲 d20=12+0(Giao tiếp)=12 vs DC 14 (16 −2 có trẻ nhỏ) → Thành công một phần: 1 bát cháo cặn cho Na, 1 bát chia đôi cho An và Tú (An: Đói −10, Khát −3).
+- 💾 CP1 — Ngày 1 19:45 — Lần đầu được Giáo xứ Đông Hải thu nhận.
