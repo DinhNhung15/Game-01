@@ -33,3 +33,4 @@
 - #27 — Ngày 1 10:37–10:42 — Hỏi Đức có chắc muốn cho má "nghỉ" không. Đức: chắc, nhưng xin Hai làm thay vì em không đánh được má; em muốn đứng nhìn, lấy hộp sữa trong giỏ, và đắp tấm bạt xanh lên cho má.
 - #28 — Ngày 1 10:42–10:44 — Đồng ý với Đức. Mở 1 chai nước, uống một ngụm (~100ml, Khát −4; chai còn ~400ml).
 - #29 — Ngày 1 10:44–10:46 — Tiếp cận mẹ Đức từ phía sau. 🎲 d20=4+2=6 vs DC 10 → Thất bại: bà quay lại. Ra tay: 🎲 d20=1+0=1 vs DC 10 (mất yếu tố bất ngờ) → Thất bại: tuýp trượt, đập vào cột sạt, bà vồ lấy cánh tay trái Minh (lớp áo khoác + băng keo đang chặn). Chờ phản ứng của người chơi trước khi tung thoát vồ.
+- #30 — Ngày 1 10:46–10:47 — Bị vồ, Minh co tuýp đánh lại bằng một tay. 🎲 d20=8+0=8 vs DC 12 (10 +2 đang bị ghì một tay) → Thất bại. Bảng vồ (có đồ bảo hộ): 🎲 d20=6 → BỊ CÀO: móng tay bà cào rách má trái dưới vành mũ bảo hiểm. Máu −1, ☣️ Nhiễm +20 (cào sâu). Đức lao tới ôm lấy má từ phía sau. 3–4 bọn Lạnh cuối phố chợ đang lết lại.
