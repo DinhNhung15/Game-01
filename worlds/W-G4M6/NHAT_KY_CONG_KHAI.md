@@ -60,3 +60,6 @@
 - Sống sót: Ngày 1 06:10 → Ngày 2 ~14:13 (~32 giờ) · Số sự kiện: 43
 - Nhiệm vụ: chính chưa hoàn thành; phụ "Giếng thánh" đã mở, chưa hoàn thành
 - Checkpoint còn hợp lệ: CP0 (Ngày 1 06:10, trường học), CP1 (Ngày 1 19:45, nhà thờ)
+
+## ⚠️ Ngày thực: người chơi yêu cầu tiết lộ toàn bộ kết cục và bí mật sau Lượt #1
+- Toàn bộ Canon đã được công bố cho người chơi. World W-G4M6 được đánh dấu "ĐÃ TIẾT LỘ": vẫn có thể chơi lại, nhưng thành tích cấp World ghi chú "(đã biết trước Canon)".
