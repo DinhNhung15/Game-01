@@ -25,3 +25,5 @@
 - #19 — Ngày 1 10:15–10:16 — Đập tuýp sắt vào đầu tên áo xe ôm đang bò dưới khe cửa cuốn. 🎲 d20=16+0=16 vs DC 8 (10 −2 mục tiêu bị kẹt) → Thành công: một phát nát sọ, gã nằm im. ✔ Xác minh: một cú đánh mạnh trúng đầu là hạ được.
 - #20 — Ngày 1 10:16 — Tiếng va đập trong siêu thị: 🎲 d20=8+2=10 vs DC 12 → Thành công một phần: 2 bọn Lạnh ở cửa kho nghe động, quay ra, lết chậm về phía quầy thu ngân nhưng chưa xác định được vị trí Minh.
 - #21 — Ngày 1 10:16–10:17 — Nhặt một lon nước ngọt rỗng méo dưới sàn, ném qua đầu hai bọn Lạnh về phía kho để đánh lạc hướng. 🎲 d20=2+2=4 vs DC 10 → Thất bại: lon đập vào biển treo giữa lối, rơi xuống lăn về phía Minh; hai bọn Lạnh xác định hướng, rú lên, lao nhanh hơn ra lối giữa — cách Minh ~4 bước.
+- #22 — Ngày 1 10:17 — Đập tuýp vào đầu cô thu ngân đang lao tới. 🎲 d20=17+0=17 vs DC 10 → Thành công: cô gục xuống.
+- #23 — Ngày 1 10:17–10:18 — Lùi ẩn sau dãy kệ. 🎲 d20=9+2=11 vs DC 12 (10 +2 kẻ địch kề sát đã thấy) → Thành công một phần: Minh vào được sau kệ đồ gia dụng, gã quản lý đâm sầm vào đầu kệ, khựng lại rồi lần theo mép kệ vòng sang.
