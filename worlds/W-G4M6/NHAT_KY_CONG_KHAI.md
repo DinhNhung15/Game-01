@@ -41,3 +41,4 @@
 - #31 — Ngày 1 20:05–20:10 — Kế hoạch A. Uống hết chai 500ml nước đã đun (Khát −20), ăn bánh quy (Đói −10). Không uống nước giếng trong đêm (người chơi chọn nước đóng chai).
 - #32 — Ngày 1 20:10 → Ngày 2 06:30 — Ngủ thẳng dưới hiên nhà thờ. Đói ≥80 từ ~02:10, Khát ≥80 từ ~04:50 → Máu −6. Nhiễm tự tiến triển +5.
 - #33 — Ngày 2 06:30–06:45 — Hỏi Cha Phêrô về con tàu. Cha chưa nghe tin tàu trên đài bán dẫn (chỉ bắt chập chờn đài tỉnh); cho biết trạm khí tượng trên đồi có máy liên lạc nhưng mất điện; đường lên đồi sạt lở; dặn không loan tin trong sân. Cha để ý An đổ mồ hôi, liếc ấm nước riêng nhưng không nói gì.
+- #34 — Ngày 2 06:45–06:50 — Tự múc 1 lít (2 ca) nước giếng nhà thờ uống (Khát −40). Nhiễm +12.
