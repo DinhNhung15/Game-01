@@ -47,3 +47,6 @@
 - #37 — Ngày 2 07:30–11:30 — Làm việc cho giáo xứ 4 giờ (gánh nước, bổ củi). Đủ điều kiện ở lại hôm nay.
 - 📝 Đính chính: lần lục gác xép ở #24 thất bại chỉ có nghĩa là không tìm thấy, KHÔNG xác nhận chợ đã hết đồ ăn. Mục "Đã biết" được sửa thành "gác xép bạn đã lục không có gì".
 - #38 — Ngày 2 11:30–11:45 — Ngồi nghỉ, bàn với Tú tìm đồ ăn và chặng tiếp theo. Tú: chợ còn tiệm thuốc Phúc An và vài dãy gác xép chưa lục; kho Bến Cá ở cảng có gạo, nước đóng chai (anh từng thấy); bệnh viện chỉ nghe đồn có bác sĩ. Tú đề nghị tự đi chợ một mình để An nghỉ.
+- #39 — Ngày 2 11:45–12:45 — An và Tú xuống chợ Đầm Cũ (Na ở lại nhà thờ, nhờ Cha Phêrô trông). (Một lần tung d100=42 trên đường bị tung thừa — luật chỉ tung khi ở ngoài trời mỗi 2 giờ — không áp dụng; kết quả vốn cũng là "không có gì" vì ban ngày.)
+- #40 — Ngày 2 12:45 — Vào chợ: 🎲 d100=66 → R7 Nước dâng bất ngờ. Chạy lên chỗ cao: 🎲 d20=3+1=4 vs DC 19 (16 +2 Thể lực thấp +1 sốt) → Thất bại: bị nước cuốn ngã, sặc nước bùn (Nhiễm +8), va đập (Máu −1, thương tích mức 2 – bầm dập sườn), băng gạc ướt bùn → vết thương hở. Tú kéo An lên gác xép dãy sau.
+- #41 — Ngày 2 12:50–13:25 — Lục dãy gác xép phía sau trong lúc tránh nước, Tú phụ (+2). 🎲 d20=11+0+2=13 vs DC 19 → Thất bại. Nước rút dần.
