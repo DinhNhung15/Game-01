@@ -19,3 +19,6 @@
 - #13 — Ngày 1 09:45–09:55 — Chui cống, trồi lên sau dãy hàng cá. Vào phố chợ: 🎲 d100=51 → R6 Mưa rừng (tiếng động khó thu hút).
 - #14 — Ngày 1 09:55–10:00 — Minh túm Đức kéo lại sau sạp cá (không tung — khoảng cách gần). Người đàn bà ở sạp 17 quay mặt nửa chừng: mắt trắng đục, vết cắn ở cổ — mẹ Đức đã thành bọn Lạnh. Bà chưa phát hiện hai người (mưa át tiếng).
 - #15 — Ngày 1 10:00–10:10 — Tìm chỗ trốn: lẻn vào ki-ốt kho nước đá bằng tôn cách 5 bước, khép hờ cửa. 🎲 d20=15+2=17 vs DC 9 (10 −2 mưa át tiếng +1 Đức đang nức nở) → Thành công. Mẹ Đức đi tới chỗ cũ, đứng một lúc rồi lết về lại sạp 17. Từ khe cửa thấy siêu thị mini Bình An bên kia đường, cửa cuốn kẹt nửa chừng.
+- #16 — Ngày 1 10:10–10:12 — Hỏi Đức muốn "nghỉ" thế nào. Đức: "Nằm xuống như người ta. Không đứng ngoài mưa nữa." Minh dặn Đức ở yên trong ki-ốt.
+- #17 — Ngày 1 10:12–10:15 — Băng qua đường sang siêu thị Bình An. 🎲 d20=4+2=6 vs DC 9 (10 −1 mưa lâm râm) → Thất bại: một bọn Lạnh mặc áo xe ôm phát hiện, lết theo. Minh chui qua khe cửa cuốn kẹt vào trong.
+- #18 — Ngày 1 10:15 — Trong siêu thị tối: 🎲 d20=10+2=12 vs DC 10 → Thành công: 2 bọn Lạnh ở khu kho phía sau chưa phát hiện. Tên áo xe ôm đang bò vào qua khe cửa cuốn.
