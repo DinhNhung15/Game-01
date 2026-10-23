@@ -70,3 +70,4 @@
 - #58 — Ngày 2 14:30–18:00 — Nghỉ ở Đài Quan Sát chờ hết mưa; ngủ chập chờn ~2 giờ; uống nửa bình nước của mình (Khát −20, bình còn ~500ml). Mưa tím tạnh lúc 18:00. GS Quang ở lại giữ Loa Cộng Hưởng.
 - #59 — Ngày 2 18:00–18:45 — Xuống đồi đi ga Cửa Nam (để Long thử chạm khối tinh thể đã nứt), rồi định về Trạm Bình Minh. Vườn hoa: 🎲 d20=16+1+2=19 vs DC 9 → Thành công. Vào ga: 🎲 d100=1 → R1, 🎲 d3=2 → 2 Kẻ Rỗng mới lang thang ở sân ga tầng trên, chắn lối xuống tầng dưới.
 - 📝 Minh bạch: ENGINE đã tung trước (kết quả là chốt, áp dụng khi tới lượt): Long chạm tinh thể lần này 🎲 d20=11 (+1 được động viên → 12 vs DC 12); tiếng vang lúc đó 🎲 d2=2; quãng đường ga → Trạm Bình Minh ban đêm 🎲 d100=74 (R9 yên tĩnh).
+- (Ngày 2 18:45) Người chơi muốn để lại bánh mì cho GS Quang — không thực hiện được vì cả nhóm đã rời Đài Quan Sát; bánh mì vẫn ở trong ba lô Hạ, có thể đưa khi quay lại lấy loa. Không thay đổi trạng thái, không tốn thời gian.
