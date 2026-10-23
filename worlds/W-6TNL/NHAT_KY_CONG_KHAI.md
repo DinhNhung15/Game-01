@@ -111,3 +111,4 @@
 - #90 — Ngày 3 14:45–14:55 — Chân cầu: 🎲 d100=91 → R9. Lách qua: 🎲 d20=7+1+2=10 vs DC 14 → Thất bại (một cụ bà trượt chân trên bùn, gậy chống va vào xà lan kêu choang).
 - 📝 Phân xử ghi TRƯỚC khi tung: thất bại lén ở vòng ngoài Tinh Thể Mẹ → 1+d3 Kẻ Rỗng vòng ngoài tách đàn, đuổi theo đoàn (cách ~30m, ban đầu đi chậm, đuổi kịp đoàn có trẻ và người già trong ~1 phút). Đám đông quanh Mẹ không phản ứng.
 - #91 — Ngày 3 14:55 — 🎲 d3=1 → 2 Kẻ Rỗng (một gã to con mặc áo bảo hộ cam, một người đàn bà tóc dài) tách khỏi vòng ngoài, lững thững đuổi theo đoàn. Đoàn đang ở giữa bờ kè, cách bến ~8 phút đi chậm. Chờ phản ứng người chơi.
+- (Ngày 3 14:55) Hạ dùng Thính Âm chủ động để soát nhịp tim đám Kẻ Rỗng khi gậy va xà lan (lượt 2/3 → còn 2/3, Thể lực −5 → 95; trong vùng Mẹ ồn ào sẵn, tiếng vang không đổi kết quả đã tung). Bụi chân cầu: Nhiễm +1 → 37.
