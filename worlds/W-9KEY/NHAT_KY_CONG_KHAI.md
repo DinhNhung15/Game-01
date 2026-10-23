@@ -107,3 +107,5 @@
 - 💾 CP5 — Ngày 2 12:15 — "Cánh cửa thép" (mốc vào được Viện Vắc-xin; ghi nhận muộn tại sự kiện #93; trạng thái theo mốc 12:15: Máu 15, Đói 48, Khát 77, Thể lực 63, Nhiễm 44, Vy Nhiễm ~39, chưa tiêm gì).
 - #93 — Ngày 2 15:55–17:35 — Quay về Viện với can xăng. Biến cố mốc 2 giờ ngoài trời: 🎲 d100=88 → R10 yên tĩnh. BS Khôi đổ xăng: đủ cho máy chạy tới khoảng 02:30 Ngày 3; mẻ RG-0 thứ hai tiếp tục.
 - #94 — Ngày 2 17:35–18:10 — Minh chọn tiêm VX-Sương (VX 4→3). Phản ứng: rét run, sốt vọt rồi lui trong ~30 phút, giống phản ứng sau tiêm của học sinh Hoa Sen. BS Khôi theo dõi mạch, nhiệt. Chưa có cách kiểm tra VX có "bám" hay không cho tới khi có liều RG-0 thứ hai (~02:00 Ngày 3).
+- #95 — Ngày 2 18:10–18:30 — Hộp cá mòi Vy mở là lấy từ ba lô của Minh. Minh đưa thêm cho Vy và BS Khôi mỗi người 1 hộp; cả ba cùng ăn (đồ hộp 4→1; Minh Đói −25). Minh uống chai nước Vy giữ lại (nước 4→3; Khát −20).
+- #96 — Ngày 2 18:30 → Ngày 3 02:05 — Minh ngủ trên giường gấp; Vy và BS Khôi thay nhau canh máy. Đêm yên tĩnh trong lab. Máu +2 (ngủ ≥6 giờ, Đói/Khát < 80). 02:05: tủ ấm báo xong — liều RG-0 thứ hai hoàn tất. BS Khôi đánh thức Minh.
