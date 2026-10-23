@@ -132,3 +132,13 @@
 - #115 — Ngày 3 08:05–08:20 — Minh leo lên thùng xe tải vật tư. Gọi bộ đàm: Hoàng Quân trả lời.
 - #116 — Ngày 3 08:20–08:30 — Qua bộ đàm, Minh báo Hoàng Quân: chuyến cuối 06:00 sáng mai; chốt phong tỏa phía Đông (cách đồn ~15') có quân đội và xe vật tư; bên sân bay an toàn hơn; quan trọng: đã có thuốc chữa được bệnh, Minh và Vy là bằng chứng. Đức nói chuyện với Hai qua bộ đàm. Hoàng Quân quyết định không chờ tới sáng mai: cả đội + Bà Tư + Đức lên xe bán tải đi ngay, ghé chốt phía Đông đón Minh rồi chạy thẳng ra sân bay.
 - #117 — Ngày 3 08:30–08:45 — Xe tải vật tư thả Minh ở chốt phong tỏa phía Đông (lính gác, bao cát, kẽm gai chắn quốc lộ). Minh đứng chờ.
+- #118 — Ngày 3 08:55–09:25 — Xe bán tải chạy quốc lộ (tuyến quân đội kiểm soát, không biến cố) tới sân bay.
+- #119 — Ngày 3 09:25–09:50 — Xét nghiệm: Bà Tư ÂM, Đức ÂM, 7 đội viên Đội Tự Vệ ÂM (2 người nhiễm trùng vết thương thường, không phải LV-7). Minh xét nghiệm lại: ÂM.
+- #120 — Ngày 3 10:00 — Minh, Bà Tư, Đức, Hoàng Quân và Đội Tự Vệ lên trực thăng dân sự rời Lâm Vân. ✔ Minh đã RỜI Lâm Vân (còn sống, là người).
+
+### KẾT QUẢ LƯỢT #1 — HOÀN THÀNH
+- Kết cục: E1 — THẮNG TRỌN — "Cánh quạt trong sương" (Minh và Vy cùng được trực thăng sơ tán trước 06:00 Ngày 4, cả hai qua kiểm dịch; hồ sơ VX-Sương, công thức RG-0 và BS Khôi đã trao cho quân đội). ✔ Hoàn thành World.
+- Sống sót: Ngày 1 07:30 → Ngày 3 10:00 (~2 ngày 2,5 giờ) · 120 sự kiện · 0 lần tử vong
+- Nhiệm vụ: Chính ✔ · Phụ: Phòng 302 ✔, Đứa trẻ trên mái ✔, Món nợ của Đội Tự Vệ ✔ · Ẩn: Hồ sơ Sương ✔, Liều thứ hai ✔
+- Người được cứu/đưa ra ngoài: Vy, Đức, Bà Tư, BS Khôi, Sơ Maria, 18 học sinh Hoa Sen, Hoàng Quân + 6 đội viên (30 người)
+- Thành tích mở khóa: [Map] Hoàn thành Map Mạt thế (lần đầu) · [World W-9KEY] Hoàn thành World · Kết cục E1 "Cánh quạt trong sương"
