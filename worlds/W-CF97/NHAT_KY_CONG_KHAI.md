@@ -107,3 +107,8 @@
 - #62 — Ngày 4 15:40–16:10 — Ba gác về hẻm 42 (biến cố 🎲 d100=87 → bình thường). Nhà anh Tín (anh Tín, chị Thảo vợ anh, bé Na 6 tuổi, bé Su 3 tuổi) và cô Hạnh lên xe. Bà Tư vẫn đứng sau quầy nước, không nhìn theo.
 - #63 — Ngày 4 16:10–17:20 — Đường về (biến cố 🎲 d100=18 → kẹt xe: đường Mỹ Hòa tắc cứng vì người chạy loạn, mất thêm 1 giờ). Về tới kho 17:20. Trong lúc đó Lực đón: Cường (xe tải 2,5 tấn, ~16:00), Đức Râu (~16:30, mang theo ba lô quân dụng), nhà Hùng Hàn (anh Hùng, chị Nga, Bin 15 tuổi, ~16:45, mang máy hàn). 10 người vào căn cứ: +50⭐ (30 → 80⭐).
 - ✅ HT4 — Thu nạp dân (≥ 8 người trước 06:00 Ngày 6): +40⭐ (80 → 120⭐). 👥 15.
+- #64 — Ngày 4 17:20 — Mua Thuần Linh Vực cấp 3 — Thánh Vực Căn Cứ (100⭐): ⭐ 120 → 20. Neo vực vào lõi kho (đặt giữa lòng kho). Kín đã 100% → phần +40% của Thánh Vực ghi là "dự trữ" (bù lại khi Kín bị giảm, không bị C4 ăn). Vực quanh lõi bán kính 30m. Tịnh Hóa −20. Vực cá nhân quanh Khải vẫn 10m.
+- 💾 CP3 — Ngày 4 17:20 — "Thánh Vực Căn Cứ" (nâng cấp dị năng).
+- 📝 Phân xử: Đốt củi trong kho kín khi đã đóng hết cửa sẽ ngạt khói → nấu xong trước 18:00 lúc còn mở cửa hông; sau Mưa Trắng muốn nấu bằng lửa trong kho cần có ống thoát khói qua lọc (làm sau). Bữa tối: Thịt 5kg (1 ô Kho Hệ Thống, = 10 phần) + 3 phần gạo căn cứ + 1 bó củi → cả 15 người ăn no. Bữa có thịt → Sĩ khí +1. Khải nói rõ tình hình (không nói chuyện hệ thống), nội quy, thứ căn cứ có.
+- #65 — Ngày 4 17:25–17:58 — Nấu cơm thịt kho, ăn tối. Lương thực 97 → 94 · Củi 8 → 7 · Kho Hệ Thống: thịt 10 → 5kg (38/40). 😊 6 → 7. Khải nói chuyện với cả căn cứ. 17:58 đóng cửa hông, cửa sập, cài then.
+- #66 — Ngày 4 18:00 — E-d: Mưa Trắng bắt đầu. Trong kho Kín 100% → Nhiễm +0. 💾 (chưa — CP "sống qua Mưa Trắng" khi mưa tạnh 22:00).
