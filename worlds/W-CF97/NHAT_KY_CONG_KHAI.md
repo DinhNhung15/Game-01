@@ -164,3 +164,5 @@
 - #94 — Ngày 5 11:30 — Mua Thuần Linh Vực cấp 4 — Thuần Linh Thiên Mạc (200⭐). ⭐ 274 → 74. Vực 100m quanh lõi Thành Trì; Người Tơ thường vào vực héo dần (Máu −2/lượt, Máu 8 → gục sau 4 lượt nếu ở lại trong vực); Đêm Tơ Trắng +6 (Canon). Tịnh Hóa giữ −20 (Canon không ghi tăng thêm). Theo phân xử #80 (c): Người Tơ chết vì Thiên Mạc tính +1⭐.
 - 💾 CP5 — Ngày 5 11:30 — "Thuần Linh Thiên Mạc" (nâng cấp dị năng).
 - #95 — Ngày 5 11:35 — Một Người Tơ lần theo tiếng xe tải bước vào rìa Thiên Mạc (~90m), héo gục (GM kể: đứng trong vực nhiều lượt liền khi đang lùi lại). +1⭐ (74 → 75).
+- 📝 Phân xử: người chơi không nói số thuốc → mua 1 liều thuốc chống nấm (6⭐) dùng ngay cho Đức Râu, giữ 5 liều cũ trong kho. Tịnh Hóa (−20 Nhiễm, 20 Linh lực) + thuốc do chị Diệp cho uống (Phòng y tế −15); chị Diệp băng vết cào bằng 1 Túi y tế, Phòng y tế hồi +2 Máu (lượt 1/2 hôm nay).
+- #96 — Ngày 5 11:35–11:50 — Mua 1 thuốc chống nấm (⭐ 75 → 69). Tịnh Hóa Đức Râu: Nhiễm 30 → 10; ✨ 27 → 7. Thuốc: Nhiễm 10 → 0. Băng bó (Túi y tế 10 → 9), Đức Máu 16 → 18.
