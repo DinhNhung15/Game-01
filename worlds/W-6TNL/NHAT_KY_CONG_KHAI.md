@@ -175,3 +175,6 @@
 - #131 — Ngày 4 23:25–23:30 — Hạ đập Kẻ Rỗng bám mép bệ: 🎲 13 vs DC 11 → Thành công, nó rơi xuống bãi bùn (xúc xắc dự phòng [5, 1] không dùng). Chụp loa: 🎲 9+1=10 vs DC 10 → Thành công. Hưng tuột dây xuống bệ, chặn 2 con còn lại: 🎲 16+3=19 vs DC 12 → Thành công. Hạ áp miệng Loa Cộng Hưởng vào lõi, chạm lõi (Nhiễm +40), dồn Âm Phá (1/1): Ý chí 🎲 10+1+1=12 vs DC 14 → THÀNH CÔNG MỘT PHẦN: LÕI TINH THỂ MẸ VỠ — Kẻ Rỗng toàn thành phố gục; dội ngược: Máu −4, Nhiễm +10. Hạ: Máu 2/20, Nhiễm 88. Đợt Nở (C6) không xảy ra.
 - ✅ H1 — Tiếng vang cuối: HOÀN THÀNH.
 - 🏁 KẾT CỤC E1 — "Bình minh không tím": phá Tinh Thể Mẹ trước 00:00 Ngày 5 và sống sót. WORLD HOÀN THÀNH.
+
+## Sau kết thúc
+- 🔓 World đã hoàn thành (E1). Theo yêu cầu người chơi, Canon được công khai: xem `CANON_BI_MAT.md` (hash vẫn khớp khóa ban đầu `e3d06b09…d9e75937`). Bí mật chưa mở trong lúc chơi: C9 (sự thật của Hưng Sẹo) — kể ở đoạn kết sau trận chung cuộc, không phải kết quả tung xúc xắc. H2 không hoàn thành trong lúc chơi.
