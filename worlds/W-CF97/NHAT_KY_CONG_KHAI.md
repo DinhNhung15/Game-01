@@ -135,3 +135,4 @@
 - #78 — Ngày 5 00:05–00:30 — Đường về. Biến cố #1 🎲 d100=65 → R5 sương bào tử dày 1 giờ (cả xe tải nằm trong vực 10m của Khải → không ai nhiễm thêm do hít). Biến cố #2 🎲 d100=84 → R7 nhà sập/cháy gần đó: một dãy nhà ven đường Mỹ Hòa bốc cháy, sập mái ầm ầm (📝 minh bạch: đã tung nhầm thêm 🎲 d4=1 vì nhầm R7 là vật tư — bỏ, không áp dụng). Về tới kho 00:30.
 - #79 — Ngày 5 00:30 — 14 người vào căn cứ (chị Diệp, Thu, anh Tâm, Hà, Thùy Linh, 9 bệnh nhân): +70⭐ (29 → 99⭐). 👥 15 → 29. Chỉ có 12 chăn, 12 chiếu.
 - ✅ S2 — Khoa nhiễm (chị Diệp ra khỏi bệnh viện trước 07:00 Ngày 5): hoàn thành → Phòng y tế (mỗi ngày +2 Máu cho 2 người; thuốc chống nấm −15/liều).
+- 💾 CP4 — Ngày 5 00:30 — "Qua đêm Mưa Trắng" (sống qua Mưa Trắng + S2 hoàn thành; ghi chung một mốc).
