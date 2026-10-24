@@ -215,3 +215,6 @@
 - 💾 CP6 — Ngày 8 03:00 — "Qua Đêm Tơ Trắng".
 - #124 — Ngày 8 06:00 — Thành Trì đứng vững: +2×59 + 10 = +128⭐ (379 → 507⭐). Khải còn sống, căn cứ đứng vững, 59 người.
 - 🏁 KẾT CỤC E1 — "Thành Trì": sống tới 06:00 Ngày 8, căn cứ đứng vững, ≥ 8 người. WORLD HOÀN THÀNH. (Chưa đạt E1+: chưa hạ Tơ Vương, chưa có PX-Stop. Chưa đạt E1★: chưa đánh bại Bảo Hắc.)
+
+## Sau kết thúc
+- 🔓 World đã hoàn thành (E1). Theo yêu cầu người chơi, Canon được công khai: xem `CANON_BI_MAT.md` (hash vẫn khớp khóa ban đầu `79a0bcc6…f094a`).
