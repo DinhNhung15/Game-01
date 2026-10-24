@@ -104,6 +104,6 @@
 - 📝 Làm rõ Canon (không sửa): E-d nói Mưa Trắng 18:00–22:00, E-e nói tiệc 21:00 "sau khi Mưa Trắng tạnh" → hiểu là mưa lớn 18:00–21:00, sau đó mưa phùn trắng/sương bào tử tới 22:00 (Nhiễm ngoài trời vẫn tính theo Mưa Trắng tới 22:00).
 - (Người chơi làm rõ: "chiều đi đón người" → không cần NPC nhắc, Khải tự đi đúng hẹn 16:00. Xúc xắc đã tung giữ nguyên.)
 - #61 — Ngày 4 13:15–15:40 — Ăn cháo trưa (Lương thực 98 → 97). Nghỉ, ngủ chập chờn 2 giờ. Thể lực hồi đầy.
-- #62 — Ngày 4 15:40–16:10 — Ba gác về hẻm 42 (biến cố 🎲 d100=87 → bình thường). Nhà anh Tín (anh Tín, chị Mai vợ anh, bé Na 6 tuổi, bé Tí 3 tuổi) và cô Hạnh lên xe. Bà Tư vẫn đứng sau quầy nước, không nhìn theo.
+- #62 — Ngày 4 15:40–16:10 — Ba gác về hẻm 42 (biến cố 🎲 d100=87 → bình thường). Nhà anh Tín (anh Tín, chị Thảo vợ anh, bé Na 6 tuổi, bé Su 3 tuổi) và cô Hạnh lên xe. Bà Tư vẫn đứng sau quầy nước, không nhìn theo.
 - #63 — Ngày 4 16:10–17:20 — Đường về (biến cố 🎲 d100=18 → kẹt xe: đường Mỹ Hòa tắc cứng vì người chạy loạn, mất thêm 1 giờ). Về tới kho 17:20. Trong lúc đó Lực đón: Cường (xe tải 2,5 tấn, ~16:00), Đức Râu (~16:30, mang theo ba lô quân dụng), nhà Hùng Hàn (anh Hùng, chị Nga, Bin 15 tuổi, ~16:45, mang máy hàn). 10 người vào căn cứ: +50⭐ (30 → 80⭐).
 - ✅ HT4 — Thu nạp dân (≥ 8 người trước 06:00 Ngày 6): +40⭐ (80 → 120⭐). 👥 15.
