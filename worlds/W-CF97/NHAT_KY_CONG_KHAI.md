@@ -76,3 +76,5 @@
 - #43 — Ngày 3 17:00 — Cất Rìu Hợp Kim vào Kho Hệ Thống (37/40). Lấy ra tức thì khi cần.
 - 📝 Phân xử ghi TRƯỚC khi tung: Người chơi không nói số nước → mua 30 bình 10L (450k) để ở Kho Lạnh. 5 xẻng (150k/cái, sạp nông cụ không bớt) + 5 tuýp sắt dài 1m làm gậy (GM bổ sung giá 50k/cây, Chiến đấu +0, dùng được để đập nút nấm). Đi ba gác ra chợ đầu mối lúc 17:10, tung biến cố trước tận thế.
 - #44 — Ngày 3 17:10–18:30 — Ba gác ra chợ đầu mối (biến cố 🎲 d100=36 → đại lý nước quen tăng giá 20% vì "người ta mua tích trữ"). Khải sang đại lý khác, mua 30 bình 10L giá 15k (450k). Sạp nông cụ: 5 xẻng (750k) + 5 tuýp sắt 1m (250k). 💵 12,256 → 10,806 triệu. Chở về Kho Lạnh. Kho: Nước 997 → 1.297L · Xẻng 2 → 7 · Tuýp sắt ×5.
+- #45 — Ngày 3 18:30–19:30 — Nấu nồi cháo đầu tiên ở kho (bếp kiềng, củi): Lương thực 100 → 99 phần, Củi 10 → 9. Ba người ăn (Khải Đói −25). Cún đi ngủ trên gác lửng.
+- #46 — Ngày 3 20:00 — E-b: bản tin thời sự địa phương trên điện thoại: "Ghi nhận 11 ca viêm phổi do nấm chưa rõ chủng ở KCN Tân Phú, Sở Y tế khuyến cáo người dân không hoảng loạn, hạn chế đến khu vực KCN". Từ giờ thuyết phục người dân / chị Diệp / Cường dễ hơn (DC 10 theo Canon).
