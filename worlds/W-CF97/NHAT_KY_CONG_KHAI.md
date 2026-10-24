@@ -73,3 +73,4 @@
 - #40 — Ngày 3 10:10–11:45 — Grab về chợ đầu mối (biến cố 🎲 d100=65 → bình thường). Mua 150 phần lương thực (2,7tr) + 40 bình nước 10L (600k), cất vào Kho Hệ Thống (35 ô → 36/40). Ăn tô mì (40k, Đói −25). Grab về Kho Lạnh. 💵 15,716 − 3,46 = 12,256 triệu.
 - #41 — Ngày 3 12:00–13:30 — Hỏi Lực về đồng đội cũ. Lực gọi: 🎲 d3=3 → liên lạc được cả 3. Đức "Râu": 🎲 d20=19 vs DC 12 → Thành công, hẹn tới kho trước 17:00 Ngày 4. Hùng "Hàn": 🎲 d20=16 vs DC 12 → Thành công, sẽ đưa vợ (chị Nga) và con trai (Bin, 15) tới trước 17:00 Ngày 4. Cường: 🎲 d20=7 vs DC 12 → Thất bại, cười trừ: "Ông Lực coi phim nhiều quá". Có thể gọi lại sau tin TV (DC 10).
 - #42 — Ngày 3 13:30–17:00 — Nghỉ ở kho. Lực đã chở đồ gia dụng về, xếp gọn. Cún phụ trải chiếu.
+- #43 — Ngày 3 17:00 — Cất Rìu Hợp Kim vào Kho Hệ Thống (37/40). Lấy ra tức thì khi cần.
