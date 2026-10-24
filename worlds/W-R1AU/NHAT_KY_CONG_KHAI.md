@@ -6,3 +6,4 @@
 
 ## Lượt #1
 - #1 — Ngày 1 07:00 — Bắt đầu lượt chơi tại phòng trọ hẻm 42. Trần Khải trọng sinh. 💾 CP0.
+- ⏹️ Ngày 1 07:00 — Người chơi chọn bỏ World này (mới chạy #1) để tạo World mới có thêm Hệ thống + dị năng (W-CF97). Canon W-R1AU giữ nguyên, không sửa.
