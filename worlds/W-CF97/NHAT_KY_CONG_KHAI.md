@@ -33,3 +33,8 @@
 - ✅ HT2 — Pháo đài kín (Kín ≥70%): +30⭐ (85 → 115⭐) + bản vẽ Buồng khử bào tử miễn Gỗ.
 - #16 — Ngày 1 (tiếp) — Buồng khử bào tử dùng bản vẽ (không tốn Gỗ) 🎲 14+2=16 → Thành công, Kín 85→100% (2 Vôi + 1 Nhựa). Vật liệu còn: Vôi 9 · Gỗ 2 · Nhựa 2 · Sắt 0. Khải uống 1L nước kho (Khát −40). Thể lực −20.
 - #17 — Ngày 1 19:05 — Mở giao diện hệ thống xem cửa hàng (chưa mua). Lực tới nhận ca gác đêm.
+- #18 — Ngày 1 19:05 — Mua bằng ⭐: Rìu Hợp Kim (15), Nâng cấp Thuần Linh Vực cấp 2 (40), Mở rộng kho +20 ô (15), Thẻ Trung Thành ×1 (30, cất trong kho hệ thống, chưa dùng). ⭐ 115 → 15. Kho Hệ Thống 40 ô (đang dùng 1: Thẻ Trung Thành). Thuần Linh Vực cấp 2: vực 10m · Tịnh Hóa Trảm (30 Linh lực) · Tịnh Hóa −15.
+- 💾 CP1 — Ngày 1 09:10 — "Thành Trì Mỹ Hòa" (có căn cứ — ghi muộn).
+- 💾 CP2 — Ngày 1 19:05 — "Thuần Linh Vực cấp 2" (nâng cấp dị năng).
+- 📝 Phân xử ghi TRƯỚC (Canon: Lực "nợ tiền viện phí cho vợ"): vợ Lực, chị Hoa (38), đang nằm khoa thận Bệnh viện Đa khoa Phú Giang (chạy thận định kỳ). Chi tiết này không đổi luật; bệnh viện thất thủ Ngày 5 07:00 áp dụng cho cả chị Hoa.
+- #19 — Ngày 1 19:05–19:25 — Nói chuyện với Lực ở cửa hông. Khải xưng là người mới thuê kho. Lực kể bị ông Hứa nợ 2 tháng lương, vợ đang nằm viện chạy thận, hỏi Khải có giữ anh lại không. Chưa tung — chờ đề nghị của người chơi.
